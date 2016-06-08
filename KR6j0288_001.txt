@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:29:25.124623
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:46
 #+TITLE: 佛說觀自在菩薩如意心陀羅尼呪經
 #+PROPERTY: CBETA_ID T20n1081
 #+PROPERTY: ID KR6j0288
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 20, No. 1081
 #+PROPERTY: VOL 20
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0288_T_000-0196b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0288_T_001-0196b> ¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1081[Nos.1080,1082,1083]¶
-
- 佛說觀自在菩薩如意心陀羅尼¶
+No. 1081 [Nos. 1080, 1082, 1083]¶
+佛說觀自在菩薩如意心陀羅尼¶
 呪經¶
 ¶
 唐三藏法師義淨奉　制譯¶
